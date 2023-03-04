@@ -38,7 +38,7 @@ That's why this Vault Starter is created. This starter contains plugins, themes,
 2. Clone [Obsidian-Starter](https://github.com/Galacsh/Obsidian-Starter) repository
 3. Run commands below `9. Change "Commit Author"`
 4. Run Obsidian
-5. `Open folder as vault` and select cloned repository
+5. `Open folder as vault` and select created repository
 6. Trust author and enable plugins
 7. Rerun Obsidian
 8. **Settings > Obsidian Git**
@@ -62,7 +62,7 @@ git push -u origin main
 3. **Settings > Community plugins**
     1. `Turn on community plugins`
     2. `Browse`
-    3. Search **Obsidian Git** 
+    3. Search **Obsidian Git**
     4. "Install" and "Enable"
 4. Click "Options"
 5. Change "Commit Author"
@@ -70,14 +70,14 @@ git push -u origin main
         - Username: Github Username
         - Password: [PAT](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
             - Fine-grained personal access tokens
-            - For cloned repository
+            - For your repository
             - Permissions
                 - Contents : "Read and Write access"
                 - Commit status : "Read and Write access"
                 - Metadata : "Read access"
 6. Close "Settings"
 7. Open "Command palette" and run `Obsidian Git: Clone existing remote repo`
-8. Fill in the path of cloned repository
+8. Fill in the path of your repository
 	- Check if there is `.git` in the end of the path
 9. Select "Vault Root"
 10. Select "YES" to pull `.obsidian` folder
