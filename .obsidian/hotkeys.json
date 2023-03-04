@@ -319,7 +319,7 @@
         "Mod",
         "Shift"
       ],
-      "key": "8"
+      "key": "9"
     }
   ],
   "various-complements:add-word-custom-dictionary": [],
@@ -348,6 +348,14 @@
         "Shift"
       ],
       "key": "-"
+    }
+  ],
+  "obsidian-git:open-git-view": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "9"
     }
   ]
 }
