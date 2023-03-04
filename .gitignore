@@ -1,0 +1,10 @@
+### Obsidian ###
+# prevent merge conflicts between devices
+**/.obsidian/workspace*.json
+**/.obsidian/plugins/recent-files-obsidian/data.json
+
+### IDEs & OS File ###
+**/.DS_Store
+**/.vscode/
+**/.idea/
+
