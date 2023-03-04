@@ -1,0 +1,22 @@
+div.frontmatter-container div.frontmatter-container-header {
+  cursor: pointer;
+}
+
+/* color YAML key text */
+span.cm-atom.cm-hmd-frontmatter {
+  color: #00b2b1;
+}
+
+/* color YAML separator text */
+span.cm-meta.cm-hmd-frontmatter {
+  color: rgb(218, 173, 26);
+}
+
+span.cm-keyword.cm-hmd-frontmatter {
+  color: var(--text-accent);
+}
+
+/* Preview mode, Metadata table font size */
+div.frontmatter-container div.frontmatter-section {
+  font-size: 0.875em;
+}

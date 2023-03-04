@@ -1,0 +1,15 @@
+{
+  "accentColor": "#42b883",
+  "cssTheme": "Minimal",
+  "theme": "moonstone",
+  "monospaceFontFamily": "JetBrains Mono,D2Coding ligature",
+  "textFontFamily": "Pretendard",
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "custom-tasks",
+    "custom-yaml",
+    "custom-workspace"
+  ],
+  "baseFontSize": 16
+}

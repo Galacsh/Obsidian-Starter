@@ -1,0 +1,12 @@
+{
+  "strictLineBreaks": true,
+  "showFrontmatter": true,
+  "newLinkFormat": "absolute",
+  "showUnsupportedFiles": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./자료",
+  "useTab": false,
+  "showInlineTitle": true,
+  "newFileLocation": "current",
+  "defaultViewMode": "source"
+}
