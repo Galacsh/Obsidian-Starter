@@ -221,7 +221,7 @@
   "recordLintOnSaveLogs": false,
   "displayChanged": true,
   "foldersToIgnore": [
-    "템플릿"
+    "Templates"
   ],
   "linterLocale": "system-default",
   "logLevel": 4,

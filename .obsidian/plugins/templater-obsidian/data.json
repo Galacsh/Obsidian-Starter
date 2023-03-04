@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "템플릿/Templater",
+  "templates_folder": "Templates/Templater",
   "templates_pairs": [
     [
       "",
@@ -16,7 +16,7 @@
   "folder_templates": [
     {
       "folder": "글",
-      "template": "템플릿/Templater/새 글 템플릿.md"
+      "template": "Templates/Templater/New Post Template.md"
     }
   ],
   "syntax_highlighting": true,
