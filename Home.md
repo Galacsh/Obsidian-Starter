@@ -3,7 +3,7 @@
 
 # 📝 메모
 
-![Home](자료/홈.png)
+![Home](attachments/홈.png)
 
 이 페이지는 [Homepage](https://obsidian.md/plugins?id=homepage) 플러그인을 이용해서 실행된다. 마지막에 작업 중이던 페이지에서 시작하거나 아무런 창도 없는 것도 좋지만, 개인적으로는 홈페이지가 있는 것을 선호하여 설치한 플러그인이다.
 

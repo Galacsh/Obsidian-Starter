@@ -4,7 +4,7 @@
   "newLinkFormat": "absolute",
   "showUnsupportedFiles": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "./자료",
+  "attachmentFolderPath": "./attachments",
   "useTab": false,
   "showInlineTitle": true,
   "newFileLocation": "current",
