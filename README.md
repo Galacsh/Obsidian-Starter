@@ -44,8 +44,9 @@ Obsidian에서 Vault로 어떤 디렉토리를 선택하게 되면, 그 디렉�
 4. Obsidian 실행
 5. `Open folder as vault` 를 선택하여 Clone한 Repository 선택
 6. Trust author and enable plugins
-7. **Settings > Obsidian Git**
-8. Commit Author 수정
+7. Obsidian 재시작
+8. **Settings > Obsidian Git**
+9. Commit Author 수정
     - `name`, `email`
 
 ```shell
