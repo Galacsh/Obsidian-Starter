@@ -6,7 +6,7 @@
 
 ## Vault
 
-When you first start using Obsidian, you will probably encounter the term "Vault" first. Vault is a term used in Obsidian to refer to the directory(repository) where notes and attachments are stored.
+When you first start using Obsidian, you will probably encounter the term "Vault" first. The term "Vault" used in Obsidian to refer to the directory(repository) where notes and attachments are stored.
 
 When you select a directory as a Vault in Obsidian, a hidden folder `.obsidian` will be created. This folder will contain sources of plugins, plugins' data and settings. Which means that if you copy `.obsidian` folder, you could generate a new Obsidian Vault with same settings.
 
