@@ -50,11 +50,12 @@ Obsidian에서 Vault로 어떤 디렉토리를 선택하게 되면, 그 디렉�
     - `name`, `email`
 
 ```shell
-git clone https://github.com/Galacsh/Obsidian-Starter-KR.git 'Notes'  
-cd Notes  
-git remote rename origin upstream  
-git remote add origin https://github.com/USERNAME/Notes.git  
-git push -u origin main  
+git clone https://github.com/Galacsh/Obsidian-Starter-KR.git 'Notes'
+cd Notes
+git update-index --assume-unchanged .obsidian/workspace.json
+git remote rename origin upstream
+git remote add origin https://github.com/USERNAME/Notes.git
+git push -u origin main
 ```
 
 ## IOS

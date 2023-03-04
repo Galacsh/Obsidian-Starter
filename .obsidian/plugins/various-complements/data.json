@@ -106,6 +106,30 @@
           "lastUpdated": 1677935246552
         }
       }
+    },
+    "Workspace": {
+      "Workspace": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677936416399
+        }
+      }
+    },
+    "Notes": {
+      "Notes": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1677938087345
+        }
+      }
+    },
+    "workspace": {
+      "workspace": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1677938047609
+        }
+      }
     }
   }
 }
