@@ -35,13 +35,26 @@ Obsidian에서 Vault로 어떤 디렉토리를 선택하게 되면, 그 디렉�
 
 ## 데스크탑
 
-1. Github에서 이 [Repository](https://github.com/Galacsh/Obsidian-Starter-KR) Fork
-2. Fork 한 Repository를 Clone
-3. Obsidian 실행
-4. `Open folder as vault` 를 선택하여 Clone한 Repository 선택
-5. **Settings > Obsidian Git**
-6. Commit Author 수정
+1. Github에서 동기화에 사용할 [Repository 생성](https://github.com/new)
+    - e.g. **Repository Name:** Notes
+    - Public or Private 무관
+    - README, `.gitignore`, License 모두 추가하지 않음
+2. [Obsidian-Starter-KR](https://github.com/Galacsh/Obsidian-Starter-KR) repository clone
+3. Remote origin 변경 및 Push (하단 코드 참고)
+4. Obsidian 실행
+5. `Open folder as vault` 를 선택하여 Clone한 Repository 선택
+6. Trust author and enable plugins
+7. **Settings > Obsidian Git**
+8. Commit Author 수정
     - `name`, `email`
+
+```shell
+git clone https://github.com/Galacsh/Obsidian-Starter-KR.git 'Notes'  
+cd Notes  
+git remote rename origin upstream  
+git remote add origin https://github.com/USERNAME/Notes.git  
+git push -u origin main  
+```
 
 ## IOS
 

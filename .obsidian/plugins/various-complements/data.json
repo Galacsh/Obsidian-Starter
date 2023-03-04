@@ -62,6 +62,50 @@
           "lastUpdated": 1677920231539
         }
       }
+    },
+    "clone": {
+      "clone": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677933797356
+        },
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1677933799564
+        }
+      }
+    },
+    "Obsidian": {
+      "Obsidian": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677934678506
+        }
+      }
+    },
+    "Obsidian-Starter-KR": {
+      "Obsidian-Starter-KR": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677934681036
+        }
+      }
+    },
+    "enable": {
+      "enable": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677935244965
+        }
+      }
+    },
+    "plugins": {
+      "plugins": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677935246552
+        }
+      }
     }
   }
 }
