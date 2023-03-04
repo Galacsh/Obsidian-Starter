@@ -5,7 +5,7 @@ draft: false
 slug: "about-this-folder"
 ---
 
-![Posts 폴더 소개](글/attachments/about-this-folder.png)
+![Posts 폴더 소개](Posts/attachments/about-this-folder.png)
 
 The **Posts** folder is a folder that is intended for use when creating a blog in the future. Note that when a file is created in this folder, it uses a special template which was created using the feature of a plugin called [Templater](https://obsidian.md/plugins?id=templater-obsidian).
 
