@@ -178,6 +178,14 @@
           "lastUpdated": 1677975226265
         }
       }
+    },
+    "generate": {
+      "generate": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1678000974458
+        }
+      }
     }
   }
 }
