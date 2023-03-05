@@ -8,5 +8,6 @@
   "useTab": false,
   "showInlineTitle": true,
   "newFileLocation": "current",
-  "defaultViewMode": "source"
+  "defaultViewMode": "preview",
+  "vimMode": false
 }
