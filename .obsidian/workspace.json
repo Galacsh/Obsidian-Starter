@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "8d2f67731e2b5947",
+    "id": "a1d8993045aa82cf",
     "type": "split",
     "children": [
       {
-        "id": "76d97ac0de932862",
+        "id": "69a7c9090d2623ee",
         "type": "tabs",
         "children": [
           {
-            "id": "604dc93cf8b70143",
+            "id": "b03957ef141e45d3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2245117a73205948",
+    "id": "338615e782a7f692",
     "type": "split",
     "children": [
       {
-        "id": "e79031b0f3606fe9",
+        "id": "1dc72c0a1179d91f",
         "type": "tabs",
         "children": [
           {
-            "id": "f3f25d365b5af812",
+            "id": "0f0a8ab7aaa42094",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "719f8488c391538e",
+            "id": "39276e18553783a8",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -47,7 +51,7 @@
             }
           },
           {
-            "id": "8c846a5044e64820",
+            "id": "a38b5b106151a2ef",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -55,7 +59,7 @@
             }
           },
           {
-            "id": "3b7993293c78c3e5",
+            "id": "a129f844e399dd4c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -76,28 +80,31 @@
     "width": 300
   },
   "right": {
-    "id": "5e3c9b71509b0e5e",
+    "id": "cda371af39ebb934",
     "type": "split",
     "children": [
       {
-        "id": "3c089df824e88607",
+        "id": "3c5130ac8412a696",
         "type": "tabs",
-        "dimension": 64.58536585365854,
+        "dimension": 64.5224171539961,
         "children": [
           {
-            "id": "63bc75051d1d0c30",
+            "id": "fc4427b021894a79",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home.md"
+              }
             }
           },
           {
-            "id": "9b30c51bf113c7e5",
+            "id": "531f7418eec573d8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,18 +116,19 @@
             }
           },
           {
-            "id": "974e0b9eafd8b6db",
+            "id": "8026d474f0b1d8bf",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f80cb0e1019763e7",
+            "id": "5d1446277feae6e1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,22 +139,23 @@
             }
           },
           {
-            "id": "00555598aff56a5e",
+            "id": "7c972655add32f4e",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
-        "id": "b4047b7af8a8c4de",
+        "id": "1a4bfd1fe17acf11",
         "type": "tabs",
-        "dimension": 35.41463414634146,
+        "dimension": 35.4775828460039,
         "children": [
           {
-            "id": "72637997de4a5464",
+            "id": "4b277c1071b4aa15",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -166,46 +175,11 @@
       "switcher:Open quick switcher": false,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
+      "templater-obsidian:Templater": true,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": true
+      "workspaces:Manage workspace layouts": true
     }
   },
-  "active": "f3f25d365b5af812",
-  "lastOpenFiles": [
-    "README.md",
-    "글/시작하기/자료/left-sidebar.png",
-    "글/시작하기/02. 사전 작업.md",
-    "글/시작하기/자료/right-sidebar.png",
-    "글/시작하기/자료/right-sidebar.png",
-    "홈.md",
-    "글/시작하기/00. 소개 및 Starter 사용법.md",
-    "글/시작하기/06. 단축키.md",
-    "글/시작하기/05. 플러그인 소개 (3) - 백업 및 동기화 관련.md",
-    "데일리/2023-03-04.md",
-    "글/시작하기/wow.md",
-    "자료/홈.png",
-    "메모/자료/메모 예시.png",
-    "메모/자료",
-    "메모/메모 예시.md",
-    "데일리/2023-03-03.md",
-    "데일리/2023-02-28.md",
-    "글/자료/글 폴더 소개.png",
-    "글/자료",
-    "글/글 폴더 소개.md",
-    "글/시작하기/자료/Homepage.png",
-    "글/시작하기/자료/Calendar-screenshot.png",
-    "글/시작하기/자료",
-    "글/시작하기/04. 플러그인 소개 (2) - UI & UX 관련.md",
-    "글/시작하기/03. 플러그인 소개 (1) - 편집 관련.md",
-    "글/시작하기/01. 전체 파일 구조.md",
-    "글/시작하기",
-    "템플릿/데일리 To-Do 템플릿.md",
-    "템플릿/Templater/새 글 템플릿.md",
-    "템플릿/Templater",
-    "자료",
-    "메모",
-    "데일리",
-    "글",
-    "템플릿"
-  ]
+  "active": "b03957ef141e45d3",
+  "lastOpenFiles": []
 }
