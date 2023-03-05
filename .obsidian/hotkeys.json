@@ -45,22 +45,6 @@
       "key": "1"
     }
   ],
-  "editor:fold-less": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "="
-    }
-  ],
-  "editor:fold-more": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "-"
-    }
-  ],
   "editor:follow-link": [
     {
       "modifiers": [
@@ -356,6 +340,41 @@
         "Mod"
       ],
       "key": "9"
+    }
+  ],
+  "editor:toggle-strikethrough": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "-"
+    }
+  ],
+  "editor:fold-less": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "="
+    }
+  ],
+  "editor:fold-more": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "-"
+    }
+  ],
+  "obsidian-git:push": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
     }
   ]
 }

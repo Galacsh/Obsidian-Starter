@@ -14,7 +14,7 @@
   "showComplementAutomatically": false,
   "showIndexingStatus": false,
   "descriptionOnSuggestion": "None",
-  "selectSuggestionKeys": "Enter",
+  "selectSuggestionKeys": "Tab",
   "additionalCycleThroughSuggestionsKeys": "None",
   "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
   "openSourceFileKey": "None",
@@ -78,8 +78,8 @@
     "Obsidian": {
       "Obsidian": {
         "currentFile": {
-          "count": 3,
-          "lastUpdated": 1677975217868
+          "count": 4,
+          "lastUpdated": 1678019976660
         }
       }
     },
@@ -184,6 +184,46 @@
         "currentVault": {
           "count": 1,
           "lastUpdated": 1678000974458
+        }
+      }
+    },
+    "Hotkeys": {
+      "Hotkeys": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1678023725648
+        }
+      }
+    },
+    "hotkeys": {
+      "hotkeys": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678020220866
+        }
+      }
+    },
+    "Select": {
+      "Select": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1678022834271
+        }
+      }
+    },
+    "Editing": {
+      "Editing": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678023023509
+        }
+      }
+    },
+    "programmable": {
+      "programmable": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678025647460
         }
       }
     }

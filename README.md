@@ -34,15 +34,14 @@ That's why this Vault Starter is created. This starter contains plugins, themes,
 1. Create a [new repository](https://github.com/new) on Github
     - e.g. **Repository Name:** Notes
     - Doesn't matter - Public or Private
-    - **No** README, `.gitignore`, License
-2. Clone [Obsidian-Starter](https://github.com/Galacsh/Obsidian-Starter) repository
-3. Run commands below `9. Change "Commit Author"`
-4. Run Obsidian
-5. `Open folder as vault` and select your repository
-6. Trust author and enable plugins
-7. Rerun Obsidian
-8. **Settings > Obsidian Git**
-9. Change "Commit Author"
+    - **Without** README, `.gitignore`, License
+2. Run commands below `9. Change "Commit Author"`
+3. Run Obsidian
+4. `Open folder as vault` and select your repository
+5. Trust author and enable plugins
+6. Rerun Obsidian
+7. **Settings > Obsidian Git**
+8. Change "Commit Author"
     - `name`, `email`
 
 ```shell
