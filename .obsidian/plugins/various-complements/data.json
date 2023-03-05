@@ -78,8 +78,8 @@
     "Obsidian": {
       "Obsidian": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677934678506
+          "count": 3,
+          "lastUpdated": 1677975217868
         }
       }
     },
@@ -160,6 +160,22 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1677943412926
+        }
+      }
+    },
+    "Templates": {
+      "Templates": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1677974601033
+        }
+      }
+    },
+    "homepage": {
+      "homepage": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677975226265
         }
       }
     }
